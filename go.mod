@@ -1,3 +1,3 @@
-module DarkNet_Diaries_PCs
+module dkn
 
 go 1.22.2
