@@ -2,7 +2,6 @@ package dkn
 
 import (
 	"fmt"
-	"github.com/killrpenguin/dkn_tool"
 )
 
 
