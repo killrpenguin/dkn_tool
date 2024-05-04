@@ -2,8 +2,9 @@ package dkn
 
 import (
 	"fmt"
-	"github.com/killrpenguin/dkn_tool.git"
+	"github.com/killrpenguin/dkn_tool"
 )
+
 
 func main() {
 	fmt.Println("Hello World!")
